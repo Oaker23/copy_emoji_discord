@@ -19,4 +19,6 @@ Recommended or more version
 
     http://localhost:1234
 
+and then past in google chorme or other web browser
+
 **[Website](https://thatiemsz.github.io/Discord-Emoji-Downloader)**
