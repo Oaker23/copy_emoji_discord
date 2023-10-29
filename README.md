@@ -15,6 +15,8 @@ Create a new folder and use the command there
 #### install parcel module
 
     cd copy_emoji_discord
+
+    
     npm install parcel-bundler --save-dev
 
 #### run
