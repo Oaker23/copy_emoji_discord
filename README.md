@@ -6,8 +6,15 @@
 Recommended or more version
 * git version 2.42.0 or lastest
 
-#### install
+Create a new folder and use the command there
 
+#### Download
+
+    git clone https://github.com/Oaker23/copy_emoji_discord.git
+
+#### install parcel module
+
+    cd copy_emoji_discord
     npm install parcel-bundler --save-dev
 
 #### run
