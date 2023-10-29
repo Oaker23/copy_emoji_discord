@@ -9,7 +9,7 @@ Recommended or more version
 
     npm install parcel-bundler --save-dev
 
-#### Enjoy!
+#### run
 
     npm start
 
