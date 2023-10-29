@@ -10,8 +10,8 @@ http://www.michaelfogleman.com/craft/
 
 ### Requirements
 
-* nodejs version 20.9.0 lts
-Recommended For Most Users
+* nodejs version 20.9.0 
+Recommended or more version
 
 ### Download
 
@@ -21,14 +21,10 @@ http://www.michaelfogleman.com/craft/
 
 See below to run from source.
 
-### Install Dependencies
 
-#### Mac OS X
+#### enjoy!
 
-
-    brew install cmake
-
-#### Linux (Ubuntu)
+    brew start
 
 
 **[Website](https://thatiemsz.github.io/Discord-Emoji-Downloader)**
