@@ -13,13 +13,7 @@ http://www.michaelfogleman.com/craft/
 * nodejs version 20.9.0 
 Recommended or more version
 
-### Download
 
-Mac and Windows binaries are available on the website.
-
-http://www.michaelfogleman.com/craft/
-
-See below to run from source.
 
 
 #### enjoy!
