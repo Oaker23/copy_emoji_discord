@@ -4,6 +4,7 @@
 
 * nodejs version 20.9.0 
 Recommended or more version
+* git version 2.42.0 or lastest
 
 #### install
 
